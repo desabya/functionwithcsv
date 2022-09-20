@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "BlobConnection": "DefaultEndpointsProtocol=https;AccountName=sgmanpower;AccountKey=yawWE0J9bQ1FEVZbJfyWES5DairPfxxVea4et3+Dz6X06rAWbvaBJGXbdjPkfdhvYfys6VjdvkLj+AStDaP47g==;EndpointSuffix=core.windows.net",
+    "AzureServiceBus": "Endpoint=sb://asbmanpower.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=jWgVDOU2Xzg28xilEG1x5JWMKK1uPbflP9Vy2+vJdgU=",
+    "QueueName": "manpowersourcequeue",
+    "EmailEndPoint": "endpoint=https://emailmsg.communication.azure.com/;accesskey=wC/FmLu0BgrHVIwDjB62mNFngNkh7FqiHZwGJyjaNZgn52cO+RtLLHT1Yy8bjEtl9E8nroUDTEjbPBIrcnyKCg=="
+  }
+}
